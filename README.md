@@ -46,7 +46,7 @@ Il sistema è pensato per supportare un’interfaccia utente semplice ma potente
 
 Tutti i dettagli del progetto sono descritti nel documento:
 
-[`01-Testo progetto CAT & RING 22_23.pdf`](./procedure/01-Testo%20progetto%20CAT%20&%20RING%2022_23.pdf)
+[`01-Testo progetto CAT & RING 22_23.pdf`](./01-Testo%20progetto%20CAT%20&%20RING%2022_23.pdf)
 
 ---
 
